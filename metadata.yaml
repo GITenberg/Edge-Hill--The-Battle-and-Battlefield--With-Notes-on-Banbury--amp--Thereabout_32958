@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36127'
     url: http://www.gutenberg.org/2009/agents/36127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32958#Edge-Hill--The-Battle-and-Battlefield--With-Notes-on-Banbury--amp--Thereabout
 gutenberg_bookshelf: English Civil War
 gutenberg_issued: '2010-06-24'
 gutenberg_type: Text
